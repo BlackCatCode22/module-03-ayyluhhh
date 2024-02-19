@@ -1,9 +1,10 @@
 package mystudent;
 
-public class Student {
+public class Student { // defining a student class, this is what student is
     String firstName;
-    String lastname;
+    String lastName;
     double gpa;
     String major;
-    String city;
+    int age;
+    boolean onProbation;
 }
